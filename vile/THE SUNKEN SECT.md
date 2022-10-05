@@ -13,7 +13,9 @@ Mind flayers come from another world seemingly and can only materiialzie certain
 ## DREAD LADY UNDINE 
 A diety that resides in the dungeons of Pulma. A water spirit apparation that can commune with the mind flayer and controls all things sunken.
 
-![The Dread Lady](/../resources/img/SpicyShinigami_a_dark_elf_with_tentacles_underwater_grinning_si_23328bfd-df31-4059-811a-e246cbfaa763.png)
+![The Dread Lady](/../../resources/img/SpicyShinigami_a_dark_elf_with_tentacles_underwater_grinning_si_23328bfd-df31-4059-811a-e246cbfaa763.png)
+
+
 <!--
 ## Requirements
 ### Humans 
