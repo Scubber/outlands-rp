@@ -4,7 +4,7 @@ The sunken sect demands treasure above all else, by any means neccesary. The sec
 
 Mind flayers come from another world seemingly and can only materiialzie certain times of the year. They controls giant levithian seprents in the sea but their power is directly influcned by the lunar calendar. The flayers seem to only appeased by objects that are illuminated in low light such as metal or jewelery. No one knows their true motives. 
 
-![](/../Mind-flayer-DnD.png)
+![](/../resources/img/Mind-flayer-DnD.png)
 
 ![](/../resources/img/pantaloon_the_leviathan._a_giagantic_amphibious_eldritch_squid__e7d302b0-f813-4bf5-a1e4-5aff4428a4a3.png)
 
